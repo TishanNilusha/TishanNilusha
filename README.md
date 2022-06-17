@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tishan Nilusha</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A Passionate Frontend Developer From Srilanka</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tishannilusha&label=Profile%20views&color=0e75b6&style=flat" alt="tishannilusha" /> </p>
